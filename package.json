@@ -2,5 +2,9 @@
   "name": "js",
   "version": "0.0.0",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "canvas": "2.10.2",
+    "canvas-sketch": "^0.7.6",
+    "canvas-sketch-util": "^1.10.0"
+  }
 }
